@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently learning: MLOps andModel Deployment<br>🎯 Goals for 2024: Build scalable ML pipelines, contribute to open-source projects, and ace MLOps tools like DVC, Docker, and Airflow..<br>🎲 Fun fact: My favorite debugging tool is my "coffee break." ☕🔍</p>
+<p align="left">📚 Currently learning: MLOps and Model Deployment<br>🎯 Goals for 2024: Build scalable ML pipelines, contribute to open-source projects, and ace MLOps tools like DVC, Docker, and Airflow..<br>🎲 Fun fact: My favorite debugging tool is my "coffee break." ☕🔍</p>
 
 ###
 
