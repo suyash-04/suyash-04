@@ -7,17 +7,17 @@
 ###
 
 <h4 align="center">
-On a journey to become an **AI Engineer**, leveraging **Machine Learning** and **Natural Language Processing (NLP)** to build intelligent, adaptive systems.  
+On a journey to become an <b>AI Engineer</b>, leveraging <b>Machine Learning</b> and <b>Natural Language Processing (NLP)</b> to build intelligent, adaptive systems.  
 I enjoy building intelligent workflows, exploring cutting-edge AI frameworks, and turning research concepts into real-world applications.  
-Currently, I'm focused on mastering **LangGraph** and **Agentic AI**, creating advanced agent-based workflows, and pushing towards more autonomous and scalable AI solutions.  
-My long-term goal is to engineer AI systems that are not just predictive but also **adaptive, interactive, and truly agentic**.
+Currently, I'm focused on mastering <b>LangGraph</b> and <b>Agentic AI</b>, creating advanced agent-based workflows, and pushing towards more autonomous and scalable AI solutions.  
+My long-term goal is to engineer AI systems that are not just predictive but also <b>adaptive, interactive, and truly agentic</b>.
 </h4>
 
 ###
 
 <p align="left">
-📚 Expanding expertise in: **Agentic AI**, **LangGraph**, and scalable AI workflows <br>
-🎯 2025 vision: Evolve into a skilled **AI Engineer** by mastering agentic architectures and deploying production-ready AI systems <br>
+📚 Expanding expertise in: <b>Agentic AI</b>, <b>LangGraph</b>, and scalable AI workflows <br>
+🎯 2025 vision: Evolve into a skilled <b>AI Engineer</b> by mastering agentic architectures and deploying production-ready AI systems <br>
 🎲 Fun fact: My favorite debugging tool is my "coffee break." ☕🔍
 </p>
 
