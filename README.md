@@ -5,9 +5,8 @@
 <h2 align="center">I'm Suyash Adhikari</h2>
 
 ###
-
 <p align="justify">
-I am an aspiring <b>AI Engineer</b> with a strong background in <b>Machine Learning</b> and <b>Natural Language Processing (NLP)</b>. I am passionate about working with modern AI frameworks, creating intelligent workflows, and turning research ideas into practical solutions. My current focus is on <b>LangGraph</b> and <b>Agentic AI</b>, where I am developing agent-based systems for autonomous and scalable AI applications. Ultimately, my goal is to build AI systems that are not only predictive but also <b>adaptive</b>, <b>interactive</b>, and <b>agentic</b>.
+An aspiring <b>AI Engineer</b> with a foundation in <b>Machine Learning</b> and <b>Natural Language Processing (NLP)</b>, passionate about leveraging modern AI frameworks to design intelligent workflows and translate research into real-world solutions. Current focus lies in <b>LangGraph</b> and <b>Agentic AI</b>, developing agent-based systems for autonomous and scalable applications. The long-term vision is to engineer AI that moves beyond predictions to become truly <b>adaptive</b>, <b>interactive</b>, and <b>agentic</b>.
 </p>
 
 
