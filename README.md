@@ -1,25 +1,35 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hey there! 👋 I'm Suyash.</h1>
+<h3 align="center">A passionate Machine Learning and Data Science enthusiast.</h3>
 
-###
+---
 
-<h2 align="center">I'm Suyash Adhikari</h2>
+<p align="center">📚 Currently exploring: <b>Generative AI, MLOps, and Model Deployment.</b></p>
+<p align="center">🎯 Goal for 2025: Master Agentic AI to build sophisticated, goal-driven systems.</p>
 
-###
+---
 
-<h4 align="center">I'm a passionate Machine Learning and Data Science enthusiast, currently pursuing Computer Engineering. I love exploring AI technologies, building predictive models, and working on real-world projects.</h4>
+### My GitHub Stats
 
-###
+<div align="center">
+  <a href="https://github.com/suyash-04">
+    <img src="https://github-readme-stats.vercel.app/api?username=suyash-04&show_icons=true&theme=onedark&hide_border=true" alt="Suyash's GitHub Stats" />
+  </a>
+  <a href="https://github.com/suyash-04">
+    <img src="https://github-readme-streak-stats.vercel.app/?user=suyash-04&theme=onedark&hide_border=true" alt="Suyash's GitHub Streak" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/suyash-04">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-04&theme=onedark&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
 
-<p align="left">📚 Currently learning: MLOps and Model Deployment<br>🎯 Goals for 2024: Build scalable ML pipelines, contribute to open-source projects, and ace MLOps tools like DVC, Docker, and Airflow..<br>🎲 Fun fact: My favorite debugging tool is my "coffee break." ☕🔍</p>
+---
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
+### My Toolkit
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -31,8 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
@@ -46,34 +54,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">Connect with me</h3>
+### Connect with Me
 
-###
-
-###
 <div align="left">
   <a href="https://www.linkedin.com/in/suyash-adhikari-b8aaa5268/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  
   <a href="https://www.facebook.com/suyash.adhikari.52" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
-  
   <a href="https://www.instagram.com/suy_esshhh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  
   <a href="https://discord.com/users/suyash2828" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 </div>
-
-###
-
-
-
-
-
