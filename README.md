@@ -6,12 +6,10 @@
 
 ###
 
-<h4 align="center">
-On a journey to become an <b>AI Engineer</b>, leveraging <b>Machine Learning</b> and <b>Natural Language Processing (NLP)</b> to build intelligent, adaptive systems.  
-I enjoy building intelligent workflows, exploring cutting-edge AI frameworks, and turning research concepts into real-world applications.  
-Currently, I'm focused on mastering <b>LangGraph</b> and <b>Agentic AI</b>, creating advanced agent-based workflows, and pushing towards more autonomous and scalable AI solutions.  
-My long-term goal is to engineer AI systems that are not just predictive but also <b>adaptive, interactive, and truly agentic</b>.
-</h4>
+<p align="justify">
+I am an aspiring <b>AI Engineer</b> with a strong background in <b>Machine Learning</b> and <b>Natural Language Processing (NLP)</b>. I am passionate about working with modern AI frameworks, creating intelligent workflows, and turning research ideas into practical solutions. My current focus is on <b>LangGraph</b> and <b>Agentic AI</b>, where I am developing agent-based systems for autonomous and scalable AI applications. Ultimately, my goal is to build AI systems that are not only predictive but also <b>adaptive</b>, <b>interactive</b>, and <b>agentic</b>.
+</p>
+
 
 ###
 
